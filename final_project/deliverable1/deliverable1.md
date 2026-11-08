@@ -54,3 +54,11 @@ Git is a version control system that tracks changes to files and helps users man
 
 # 17. What is GitHub?
 GitHub is an online platform for hosting Git repositories. It allows users to store code and documents, track changes, collaborate with others, and share projects.
+
+## Concepts that need more understanding
+
+**Virtual Machine Networking:** I still have trouble understanding the difference between NAT and Bridged Adapter and when to use each one.
+
+ **Port Forwarding:** I understand that port forwarding allows connections to reach a virtual machine, but I'm still confused about how the ports connect between the host and the server.
+
+**Apache Virtual Hosts:** I understand that virtual hosts allow one Apache server to host multiple websites, but I'm still learning how to configure each website separately.
