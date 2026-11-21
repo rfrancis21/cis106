@@ -12,7 +12,7 @@ Examples:
 - ls *.txt - Shows all files ending in .txt.
 - ls photo* - Shows files starting with photo.
   ls *2026* - Shows files containing 2026.
-
+  
 ### 2. Question Mark (?)
 Matches exactly one character.
 
